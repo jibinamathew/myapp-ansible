@@ -1,2 +1,2 @@
 [webservers]
-192.168.49.133 ansible_user=new 
+192.168.49.133 ansible_sudo_pass=new ansible_ssh_user=new
