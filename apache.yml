@@ -14,5 +14,6 @@
     - name: Deploy static website
       copy:
         src: index.html
+        port: 2222
         dest: /var/www/html/
 ...
