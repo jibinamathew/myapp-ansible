@@ -1,4 +1,4 @@
-webservers]
+[webservers]
 server1 ansible_host=192.168.49.133
 
 [all:vars]
