@@ -1,9 +1,2 @@
 [webservers]
-server1 ansible_host=192.168.49.133 ansible_sudo_pass=new 
-
- 
-[all:vars]
-ansible_python_interpreter=/usr/bin/python3
-
-
-
+172.31.85.114 ansible_user=ec2-user
