@@ -1,6 +1,5 @@
 [webservers]
 server1 ansible_host=192.168.49.133
-server2 ansible_host=192.168.49.131
 localhost
  
 [all:vars]
